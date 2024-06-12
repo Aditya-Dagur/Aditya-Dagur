@@ -4,7 +4,6 @@
 - 📫 How to reach me
 - ig=> @aditya_dagur_01
 - linkedIn=> Aditya dagur
-- 😄 Pronouns: ...
 - ⚡ Fun fact: first rule og programming,If your code works then dont touch or Modified it
 
 <!---

@@ -4,7 +4,7 @@
 - 📫 How to reach me
 - ig=> @aditya_dagur_01
 - linkedIn=> Aditya dagur
-- ⚡ Fun fact: first rule og programming,If your code works then dont touch or Modified it
+- ⚡ Fun fact: first rule of programming,If your code works then dont touch or Modified it
 
 <!---
 Aditya-Dagur/Aditya-Dagur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Aditya Dagur  <br>B.Tech CSE student | Frontend & Web Developer | Turning ideas into responsive web experiences<br>👯 I’m looking to collaborate on<br>• Frontend / Web Development projects  <br>• React.js based applications  <br>• Open-source beginner-friendly projects<br>🤝 I’m looking for help with<br>• Advanced React patterns  <br>• Writing scalable and clean frontend code  <br>• Open-source contribution guidance<br>🌱 I’m currently learning<br>• React.js (advanced concepts)  <br>• JavaScript best practices<br> <br> Pyspark(Basics)⚡ Fun fact<br>I enjoy converting simple ideas into real working web projects 🚀<br>
+Hi 👋 I'm Aditya Dagur  <br>B.Tech CSE student | Frontend & Web Developer | Turning ideas into responsive web experiences<br>👯 I’m looking to collaborate on<br>• Frontend / Web Development projects  <br>• React.js based applications  <br>• Open-source beginner-friendly projects<br>🤝 I’m looking for help with<br>• Advanced React patterns  <br>• Writing scalable and clean frontend code  <br>• Open-source contribution guidance<br>🌱 I’m currently learning<br>• React.js (advanced concepts)  <br>• JavaScript best practices<br> • Pyspark(Basics)⚡ Fun fact<br>I enjoy converting simple ideas into real working web projects 🚀<br>
 
 
 ## 🌐 Socials:

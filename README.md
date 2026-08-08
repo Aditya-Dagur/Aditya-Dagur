@@ -1,5 +1,46 @@
-# 💫 About Me:
-Hi 👋 I'm Aditya Dagur  <br>B.Tech CSE student | Frontend & Web Developer | Turning ideas into responsive web experiences<br>👯 I’m looking to collaborate on<br>• Frontend / Web Development projects  <br>• React.js based applications  <br>• Open-source beginner-friendly projects<br>🤝 I’m looking for help with<br>• Advanced React patterns  <br>• Writing scalable and clean frontend code  <br>• Open-source contribution guidance<br>🌱 I’m currently learning<br>• React.js (advanced concepts)  <br>• JavaScript best practices<br> • Pyspark(Basics)<br>⚡ Fun fact<br>I enjoy converting simple ideas into real working web projects 🚀<br>
+# 👋 About Me
+
+Hi, I'm **Aditya Dagur** 👋
+
+🎓 B.Tech CSE Graduate | 📊 Aspiring Data Analyst | 💻 Data & Analytics Enthusiast
+
+I enjoy working with data, finding meaningful insights, and solving business problems through data analysis and visualization.
+
+### 🔎 I'm interested in
+
+- 📊 Data Analysis & Business Intelligence
+- 🐍 Python for Data Analysis
+- 🗄️ SQL & Database Analysis
+- 📈 Excel & Power BI
+- 📉 Data Visualization & Reporting
+- 🔄 ETL & Data Processing
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Power BI, Matplotlib, Plotly
+- **Database:** SQL
+- **Tools:** Excel, Jupyter Notebook, VS Code, Git & GitHub
+- **Currently Learning:** PySpark & Databricks
+
+### 🚀 What I'm Currently Working On
+
+- Building data analysis projects using Python and SQL
+- Improving my Excel & Power BI skills
+- Learning PySpark and Databricks for Data Engineering
+- Working on real-world data projects to strengthen my analytical skills
+
+### 🤝 I'm Looking to Collaborate On
+
+- Data Analysis projects
+- Python & SQL projects
+- Power BI dashboards
+- Beginner-friendly open-source data projects
+
+### 💡 Fun Fact
+
+I enjoy turning raw data into meaningful insights and learning something new with every project. 📊🚀
 
 
 ## 🌐 Socials:
